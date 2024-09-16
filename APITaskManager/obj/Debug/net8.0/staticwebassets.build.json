@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yPnjJvV5RAvpF7hO8YCry46Yf+DhAuSzNSxnp8L2lz0=",
+  "Source": "APITaskManager",
+  "BasePath": "_content/APITaskManager",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
